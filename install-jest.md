@@ -4,8 +4,9 @@
 1. Instalaciones:
 ```
 yarn add --dev jest babel-jest @babel/preset-env @babel/preset-react
-npm install jest babel-jest @babel/preset-env @babel/preset-react --save-dev
 yarn add --dev @testing-library/react @types/jest jest-environment-jsdom
+
+npm install jest babel-jest @babel/preset-env @babel/preset-react --save-dev
 npm install @testing-library/react @types/jest jest-environment-jsdom --save-dev
 ```
 
